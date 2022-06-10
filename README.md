@@ -1,7 +1,7 @@
 TP - Computación Aplicada - Grupo 1
 ===================================
 
-Integrantes:
+Integrantes
 ------------
 <ul>
 <li>Walczak Flores, Héctor Eduardo</li>
