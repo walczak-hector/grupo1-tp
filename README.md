@@ -3,15 +3,14 @@ TP - Computación Aplicada - Grupo 1
 
 Integrantes:
 ------------
-<ol>
+<ul>
 <li>*Walczak Flores, Héctor Eduardo</li>
 <li>Barreto, Cristian</li>
-<li>Pez</li>
-</ol>
-        
-        *
-        *Furini, Carla Betiana
-        *Mauas, Jaia Noemi
-        *Rompani, Manuel Agustin
-        *Sierralata, Alejandro
+<li>Furini, Carla Betiana</li>
+<li>Furini, Carla Betiana</li>
+<li>Mauas, Jaia Noemi</li>
+<li>Rompani, Manuel Agustin</li>
+<li>Sierralata, Alejandro</li>
+</ul>
+
 
