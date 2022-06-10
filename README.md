@@ -1,11 +1,15 @@
-# grupo1-tp
 TP - Computación Aplicada - Grupo 1
 ===================================
 
 Integrantes:
 ------------
-        *Walczak Flores, Héctor Eduardo
-        *Barreto, Cristian
+<ol>
+<li>*Walczak Flores, Héctor Eduardo</li>
+<li>Barreto, Cristian</li>
+<li>Pez</li>
+</ol>
+        
+        *
         *Furini, Carla Betiana
         *Mauas, Jaia Noemi
         *Rompani, Manuel Agustin
